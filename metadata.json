@@ -1,0 +1,6 @@
+{
+  "name": "Luna — Voice Wife Agent",
+  "description": "Mohamed's voice companion with persistent memory and Notion task integration.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
